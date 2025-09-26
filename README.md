@@ -1,4 +1,4 @@
-This project contains documentation and data related to the cow lameness assessment project phase 3.
+<b> This project contains documentation and data related to the cow lameness assessment project phase 3. <b>
 
 Directory Structure
 The project's data is organized into several key directories:
@@ -40,7 +40,8 @@ The project's data is organized into several key directories:
 │   ├── DSI_proposal_submitted.docx
 │   └── gantt_chart_and_time_commitment.xlsx
 └── ... (other project files)
-Directory Descriptions
+
+<b> Directory Descriptions <b> 
 raw_videos/: Contains the original video recordings and documentation
 
 long_videos_by_date/: Raw video that were taken, those are long video recordings (8-30 minutes each) organized by date. We took videos twice for each cow, on the saturday of each week, once in the morning, once in the afternoon. Each video captures multiple cows walking by over an extended period
